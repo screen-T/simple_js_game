@@ -1,0 +1,32 @@
+*{
+    margin-left: 100px;
+}
+table{
+    border:2px solid ;
+    border-color: aqua;
+    border-radius: 20px;
+    background-color:darksalmon;
+}
+td{
+    border:2px solid ;
+    border-color: aqua;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+tr{
+    border:2px solid ;
+    border-color: aqua;
+}
+td:hover{
+    background-color: black;
+}
+img{
+    width: 100px;
+    height: 100px;
+
+}
+.input-color{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
